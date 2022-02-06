@@ -1,9 +1,10 @@
 # Final Project
 ## IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
 
-🔗 Specialisation under which I am doing this course: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
-🔗 Course Link: https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-full-stack-cloud-developer
-🔗 Website Link: https://arnav-barman.github.io/vftvk-Simple-Interest-Calculator/
+Important links:
+🔗 [Specialisation under which I am doing this course](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
+🔗 [Course Link](https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-full-stack-cloud-developer)
+🔗 [Website Link](https://arnav-barman.github.io/vftvk-Simple-Interest-Calculator/)
 
 This app titled Simple Interest Calculator, will compute the interest one can earn given the amount you wish to save, the number of years you can keep it invested and the interest rate the bank would pay you.
 
