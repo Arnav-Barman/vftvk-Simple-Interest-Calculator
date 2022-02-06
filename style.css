@@ -1,4 +1,13 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black;font-family: Arial;color: white; }
+h1{color:grey;font-family: Verdana;}
+table{text-align: left;margin: 0 auto;}
+.maindiv{
+    background-color: white; 
+    color: black; 
+    width: 500px; 
+    padding: 20px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+footer{text-align: left;}
+td,th {padding: 4px;}
