@@ -1,7 +1,7 @@
 # Final Project
 ## IBM Course: Introduction to Cloud Development with HTML, CSS, and JavaScript
 
-🔗 Specialisation under which I am doing this course: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?
+🔗 Specialisation under which I am doing this course: https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
 🔗 Course Link: https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript?specialization=ibm-full-stack-cloud-developer
 🔗 Website Link: https://arnav-barman.github.io/vftvk-Simple-Interest-Calculator/
 
